@@ -26,7 +26,7 @@ what do you do?
 
 
 
-* 🚢 \[Investigate the shipwreck to your left.](./scene4A.md) 
+* 🚢 \[Investigate the shipwreck to your left](./scene4A.md) 
 
 
 

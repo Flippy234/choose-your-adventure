@@ -36,15 +36,15 @@ What do you do?
 
 
 
-* 🛖\[Grab the raft and oar and paddle across](./scene4D.md)
+* 🛖 \[Grab the raft and oar and paddle across](./scene4D.md)
 
 
 
-* 🪨\[Risk the stepping stones upstream](./scene4E.md)
+* 🪨 \[Risk the stepping stones upstream](./scene4E.md)
 
 
 
-* 🔥\[Wade downstream toward the glowing cave](./scene4F.md)
+* 🔥 \[Wade downstream toward the glowing cave](./scene4F.md)
 
 
 

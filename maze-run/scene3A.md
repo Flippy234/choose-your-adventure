@@ -26,13 +26,13 @@ what do you do?
 
 
 
-\* 🚢 \[Investigate the shipwreck](/Flippy234/choose-your-adventure/blob/dev/maze-run/scene4A.md)
+\* 🚢\[Investigate the shipwreck](/Flippy234/choose-your-adventure/blob/dev/maze-run/scene4A.md)
 
 
 
-\* 🌑 \[Descend the staircase](/Flippy234/choose-your-adventure/blob/dev/maze-run/scene4B.md)
+\* 🌑\[Descend the staircase](/Flippy234/choose-your-adventure/blob/dev/maze-run/scene4B.md)
 
 
 
-\* 🐢 \[Approach the sea turtle](/Flippy234/choose-your-adventure/blob/dev/maze-run/scene4C.md)
+\* 🐢\[Approach the sea turtle](/Flippy234/choose-your-adventure/blob/dev/maze-run/scene4C.md)
 

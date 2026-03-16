@@ -6,6 +6,6 @@
 
 > The right tree exclaims "Forest!" also echoing throughout the area.
 
-- 🌸 [You decide to enter the trees opening of "Meadow"](./scene3E.md)
+- 🌸 [You decide to enter the trees opening of "Meadow"](/scene3E.md)
 
-- 🌲 [You decide to enter the trees opening of "Forest"](./scene3F.md)
+- 🌲 [You decide to enter the trees opening of "Forest"](/scene3F.md)

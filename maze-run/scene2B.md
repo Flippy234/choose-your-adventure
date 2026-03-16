@@ -8,6 +8,6 @@ There are 3 openings in the volcano that have markings written on them. A symbol
 
 Which entrance do you decide to take?
 
-- 🐉 [You enter the opening with the symbol of the dragon](./scene3C.md)
+- 🐉 [You enter the opening with the symbol of the dragon](/scene3C.md)
 
-- ♨ [You enter the opening of the symbol of a pile of ashes](./scene3D.md)
+- ♨ [You enter the opening of the symbol of a pile of ashes](/scene3D.md)

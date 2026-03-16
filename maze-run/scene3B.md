@@ -1,9 +1,7 @@
-\## Scene 3B: The River Maze 🚣🌿
-
+## Scene 3B: The River Maze 🚣🌿
 
 
 You step through the entrance marked "River" and the ground immediately changes beneath your feet, soft mud squishes under every step. A wide, rushing river cuts straight through the center of the maze path, dark green and moving fast. 
-
 
 
 the only wat forward is across. 
@@ -36,15 +34,14 @@ What do you do?
 
 
 
-* 🛖 \[Grab the raft and oar and paddle across](./scene4D.md)
+ 🛖 [Grab the raft and oar and paddle across](./scene4D.md)
 
 
 
-* 🪨 \[Risk the stepping stones upstream](./scene4E.md)
+🪨 [Risk the stepping stones upstream](./scene4E.md)
 
 
-
-* 🔥 \[Wade downstream toward the glowing cave](./scene4F.md)
+🔥 [Wade downstream toward the glowing cave](./scene4F.md)
 
 
 

@@ -1,4 +1,4 @@
-\## Scene 3C: The Dragon's Den 🐉🔥
+## Scene 3C: The Dragon's Den 🐉🔥
 
 
 
@@ -42,16 +42,16 @@ The dragon slowly uncurls and you notice three things around the chamber. A glow
 
 
 
-Do you trust the dragon ? Or do you run?]
+Do you trust the dragon ? Or do you run?
 
 
 
-* 🚪 \[Ask the dragon about the glowing door](./scene4G.md)
+🚪 [Ask the dragon about the glowing door](./scene4G.md)
 
 
 
-* 📦 \[Reach for the chest at the dragon's feet](./scene4H.md)
+📦 [Reach for the chest at the dragon's feet](./scene4H.md)
 
 
 
-* 🏃 \[Bolt for the narrow tunnel exit on your right](./scene4I.md)
+🏃 [Bolt for the narrow tunnel exit on your right](./scene4I.md)

@@ -14,5 +14,5 @@ You drink it. Warmth floods through you — and for just a moment, a flash: a wh
 
 
 
-* ⬆️ [Climb back up and keep moving](scene5A.md)
+* ⬆️ [Climb back up and keep moving](./scene5A.md)
 

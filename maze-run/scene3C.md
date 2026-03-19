@@ -46,12 +46,4 @@ Do you trust the dragon ? Or do you run?
 
 
 
-🚪 [Ask the dragon about the glowing door](./scene4G.md)
-
-
-
-📦 [Reach for the chest at the dragon's feet](./scene4H.md)
-
-
-
-🏃 [Bolt for the narrow tunnel exit on your right](./scene4I.md)
+🚪 [Ask the dragon about the glowing door](./scene4F.md)

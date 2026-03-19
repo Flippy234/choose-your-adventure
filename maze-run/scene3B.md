@@ -38,8 +38,6 @@ What do you do?
 
 
 
-🪨 [Risk the stepping stones upstream](./scene4E.md)
-
 
 
 

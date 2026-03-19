@@ -26,13 +26,14 @@ what do you do?
 
 
 
-- 🚢[Investigate the shipwreck](/.scene4A.md)
+- 🚢[Investigate the shipwreck](scene4A.md)
 
 
 
-- 🌑[Descend the staircase](/.scene4B.md)
+- 🌑[Descend the staircase](scene4B.md)
 
 
 
-- 🐢[Approach the sea turtle](/.scene4C.md)
+- 🐢[Approach the sea turtle](scene4C.md)
+
 

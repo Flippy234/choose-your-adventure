@@ -7,4 +7,4 @@ The figure is barreling towards you very fast, causing you to slip, you see a sm
 
 You breathe a deep sigh of relief as you hear the figures footsteps slowly getting quieter and quieter.
 
-[You crawl out of the space and enter a doorway that is completely dark in the inside.](./scene5B)
+[You crawl out of the space and enter a doorway that is completely dark in the inside.](./scene5B.md)

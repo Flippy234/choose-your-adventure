@@ -41,7 +41,6 @@ What do you do?
 🪨 [Risk the stepping stones upstream](./scene4E.md)
 
 
-🔥 [Wade downstream toward the glowing cave](./scene4F.md)
 
 
 

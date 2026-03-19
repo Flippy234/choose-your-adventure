@@ -14,5 +14,5 @@ The turtle blinks once and lumbers down a hidden path. You follow. It leads you 
 
 
 
-- 🐢 [Continue toward the maze center](/scene5A.md)
+- 🐢 [Continue toward the maze center](./scene5A.md)
 

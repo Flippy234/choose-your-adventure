@@ -4,6 +4,6 @@
 
 🏊 A large wave washes you up to shore, you catch your breath and see another 3 maze entrances that each contain a word. "Ocean" And "River"
 
-- 🏝️ [You decide to walk in into the "Ocean" Maze](/scene3A.md)
+- 🏝️ [You decide to walk in into the "Ocean" Maze](./scene3A.md)
 
-- 🚣 [You walk into "River" Maze](/scene3B.md)
+- 🚣 [You walk into "River" Maze](./scene3B.md)

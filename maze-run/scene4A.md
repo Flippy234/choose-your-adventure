@@ -14,5 +14,5 @@ The hull groans. Water floods in fast. You grab the map and run.
 
 
 
-- 🗺️ [Press on through the maze](scene5A.md)
+- 🗺️ [Press on through the maze](./scene5A.md)
 

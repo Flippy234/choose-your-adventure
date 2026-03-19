@@ -4,6 +4,6 @@ You call out "Is anybody there?" And before anything you hear a bellowing from t
 
 Which path do you decide to take?
 
-- 🐦 [You decide to go towards the chirping of the birds](/scene5C.md)
+- 🐦 [You decide to go towards the chirping of the birds](./scene5C.md)
 
-- [You decide to run away from the bellowing](/scene5B.md)
+- [You decide to run away from the bellowing](./scene5B.md)

@@ -2,7 +2,6 @@ You ask the dragon about the glowing door and then you are shown the world aroun
 
 You will be stuck here forever unless you decide to take the two paths that seem to go down to the depths below the ground. Which path do you decide to take?
 
-- [The rumbling of sand path](./scene5B.md)
+- [The rumbling of the sandy path leading to a small doorway that is completely dark](./scene5B.md)
 
-- [The earthy rocky path](.scene5C.md)
 

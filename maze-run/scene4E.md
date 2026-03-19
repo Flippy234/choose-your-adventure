@@ -6,3 +6,5 @@ In front of you, you see a towering figure that is around 12 feet tall. Using yo
 The figure is barreling towards you very fast, causing you to slip, you see a small opening in a wall and decide to crawl under it as quickly as you can. The figure runs past you, seeming like it didn't notice you went inside the wall.
 
 You breathe a deep sigh of relief as you hear the figures footsteps slowly getting quieter and quieter.
+
+[You crawl out of the space and enter a doorway that is completely dark in the inside.](/scene5B)
